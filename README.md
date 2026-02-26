@@ -1,2 +1,2 @@
 The course dataset was used.
-# intro-ml-course-winter2026
+Team 2: Urim Iyasere, Vyshu Manohara, Nathan Shin
